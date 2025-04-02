@@ -1,4 +1,4 @@
-package org.medicamentos.sysmedicamentos;
+package org.medicamentos.sysmedicamentos.controller;
 
 import javafx.fxml.FXML;
 import javafx.scene.control.Label;
